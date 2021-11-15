@@ -6,10 +6,13 @@ Pewlett-Hackard is a large company that has been in business for many years. As 
 
 ## Preparation
 
-A flowchart, or ERD (entity relationship diagram) was created to begin to map the data:
+A flowchart, or ERD (entity relationship diagram), was created to begin to map the data:
 https://github.com/jgarbett44/Pewlett-Hackard-Analysis/blob/7c99ad2ebb538af0e2696ed9fad6e21995defc03/QuickDBD-export.png
 
 ## Results
+
+Large CSV files with employee data were queried to identify the titles of employees who may retire soon:
+https://github.com/jgarbett44/Pewlett-Hackard-Analysis/blob/794fbbdc2a2ee8636040b65af18486910a61e5b8/Data/unique_titles.csv
 
 The position with the most upcoming retirements is *Senior Engineer*, with more than 29,000 expected openings:
 https://github.com/jgarbett44/Pewlett-Hackard-Analysis/blob/a984009a2bb6a2301183b34340a8717bee51a10e/TitlesRetirementPH.png
