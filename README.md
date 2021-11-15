@@ -22,3 +22,5 @@ https://github.com/jgarbett44/Pewlett-Hackard-Analysis/blob/a984009a2bb6a2301183
 
 ## Summary
 
+The challenge to replace retiring employees will be substantial, and it will be necessary for the company to invest in recruiting and other outreach for a number of years.
+
